@@ -1,3 +1,4 @@
+![logo](https://github.com/iamrizwanasif/iamrizwanasif/blob/main/Github%20Banner_PNG.png)
 <h1 align="center">Hi 👋, I'm Rizwan Asif</h1>
 <h3 align="center">A Aspiring Data Analyst from India</h3>
 
