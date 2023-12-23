@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **SQL, PYTHON, POWER BI**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/rizwanasif](https://linktr.ee/rizwanasif)
+- 👨‍💻 My Bio are available at [https://linktr.ee/rizwanasif](https://linktr.ee/rizwanasif)
 
 - 📫 How to reach me **rizwanfuture21@gmail.com**
 
